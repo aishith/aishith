@@ -1,3 +1,9 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:38BDF8&amp;height=190&amp;section=header&amp;text=Aishith%20Karri&amp;fontSize=52&amp;fontColor=FFFFFF&amp;fontAlignY=36&amp;desc=M.Tech%20Computer%20Science%20%40%20NIT%20Goa&amp;descSize=18&amp;descAlignY=58&amp;animation=fadeIn" alt="Aishith Karri" />
+
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Software+Engineer+%7C+AI+Engineer+%7C+Data+Scientist;Building+AI-powered+and+full-stack+applications">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=3500&amp;pause=900&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Software+Engineer+%7C+AI+Engineer+%7C+Data+Scientist;Building+AI-powered+and+full-stack+applications" alt="Aspiring Software Engineer, AI Engineer, and Data Scientist" />
+  </a>
 
 
 <!--
@@ -14,10 +20,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![aishith](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM)
-<h1 align="center">👋 Hi, I'm Aishith karri</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishith&label=Profile%20views&color=0e75b6&style=flat" alt="aishith" /> </p>
+<br />
+  <br />
+
+  <a href="https://www.linkedin.com/in/aishith-karri/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aishith80@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email Aishith" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=aishith&amp;label=Profile%20views&amp;color=2563EB&amp;style=for-the-badge" alt="Profile views" />
+</div>
 
 ## 💫 About Me
 
