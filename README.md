@@ -45,3 +45,22 @@ No activity tracked
   src="https://streak-stats.demolab.com?user=aishith&hide_border=true&theme=transparent"
 />
 </p>
+
+## 🐍 My Contribution Graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/aishith/aishith/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/aishith/aishith/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/aishith/aishith/output/github-contribution-grid-snake.svg"
+  />
+</picture>
