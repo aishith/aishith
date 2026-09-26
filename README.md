@@ -10,3 +10,8 @@ and turning ideas into useful software. 🚀
 - 🤖 I'm interested in Generative AI, Deep Learning & LLMs
 - 💻 Ask me about Python/Java/AI/ML/Data Science/Software Development
 - ⚡ Fun fact: **I enjoy turning ideas into working projects**
+
+## 📊 This Week I Spent My Time On
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
