@@ -11,7 +11,7 @@ and turning ideas into useful software. 🚀
 - 💻 Ask me about Python/Java/AI/ML/Data Science/Software Development
 - ⚡ Fun fact: **I enjoy turning ideas into working projects**
 
-## 📊 This Week I Spent My Time On
+### 📊 This Week I Spent My Time On
 
 <!--START_SECTION:waka-->
 
@@ -25,4 +25,23 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-> 📌 Automatically updated using WakaTime.
+### 📈 GitHub Statistics
+
+<p align="center">
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api?username=aishith&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+/>
+<img
+  height="180"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishith&layout=compact&hide_border=true&theme=transparent"
+/>
+</p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+<img
+  src="https://streak-stats.demolab.com?user=aishith&hide_border=true&theme=transparent"
+/>
+</p>
