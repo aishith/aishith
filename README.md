@@ -25,17 +25,22 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-### 📈 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
+
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api?username=aishith&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
+  src="./profile/stats.svg"
+  alt="Aishith's GitHub Stats"
 />
+
 <img
   height="180"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishith&layout=compact&hide_border=true&theme=transparent"
+  src="./profile/top-langs.svg"
+  alt="Aishith's Top Languages"
 />
+
 </p>
 
 ### 🔥 GitHub Streak
