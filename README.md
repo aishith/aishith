@@ -1,15 +1,54 @@
-### 🙂 aishith / README.md
-
 ### Hi there, I'm Aishith 👋
 
-I'm a developer who loves building things, experimenting with AI,
-and turning ideas into useful software. 🚀
+This is the place where i open source stuff and break things 🤣
 
 - 🧑‍💻 I'm currently working on something cool 😎
 - 🌱 I'm currently learning AI, ML & Data Science
 - 🤖 I'm interested in Generative AI, Deep Learning & LLMs
 - 💻 Ask me about Python/Java/AI/ML/Data Science/Software Development
 - ⚡ Fun fact: **I enjoy turning ideas into working projects**
+
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/aishith-karri">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+  </a>
+  <a href="https://github.com/aishith">
+    <img src="https://skillicons.dev/icons?i=github" height="45" />
+  </a>
+</p>
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="45" />
+  <img src="https://skillicons.dev/icons?i=java" height="45" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" />
+  <img src="https://skillicons.dev/icons?i=javascript" height="45" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="45" />
+  <img src="https://skillicons.dev/icons?i=html" height="45" />
+  <img src="https://skillicons.dev/icons?i=css" height="45" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch" height="45" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" />
+  <img src="https://skillicons.dev/icons?i=opencv" height="45" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="45" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="45" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="45" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="45" />
+  <img src="https://skillicons.dev/icons?i=docker" height="45" />
+  <img src="https://skillicons.dev/icons?i=linux" height="45" />
+</p>
 
 ### 📊 This Week I Spent My Time On
 
@@ -25,22 +64,11 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 📈 GitHub Statistics
+### 📈 GitHub Statistics
 
 <p align="center">
-
-<img
-  height="180"
-  src="./profile/stats.svg"
-  alt="Aishith's GitHub Stats"
-/>
-
-<img
-  height="180"
-  src="./profile/top-langs.svg"
-  alt="Aishith's Top Languages"
-/>
-
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
 </p>
 
 ### 🔥 GitHub Streak
@@ -51,7 +79,7 @@ No activity tracked
 />
 </p>
 
-## 🐍 My Contribution Graph
+### 🐍 My Contribution Graph
 
 <picture>
   <source
