@@ -13,9 +13,7 @@ This is the place where i open source stuff and break things 🤣
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 56 mins         ███████████████████████▓░   94.39 %
-YAML     10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
-Java     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Python   1 hr 25 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
