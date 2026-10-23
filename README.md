@@ -13,7 +13,7 @@ This is the place where i open source stuff and break things 🤣
 <!--START_SECTION:waka-->
 
 ```txt
-Python   14 mins               █████████████████████████   100.00 %
+Python   5 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
